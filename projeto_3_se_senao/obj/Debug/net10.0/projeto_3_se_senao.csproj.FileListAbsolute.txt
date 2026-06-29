@@ -1,0 +1,15 @@
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\bin\Debug\net10.0\projeto_3_se_senao.exe
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\bin\Debug\net10.0\projeto_3_se_senao.deps.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\bin\Debug\net10.0\projeto_3_se_senao.runtimeconfig.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\bin\Debug\net10.0\projeto_3_se_senao.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\bin\Debug\net10.0\projeto_3_se_senao.pdb
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.AssemblyInfoInputs.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.AssemblyInfo.cs
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.sourcelink.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\refint\projeto_3_se_senao.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.pdb
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\projeto_3_se_senao.genruntimeconfig.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_3_se_senao\obj\Debug\net10.0\ref\projeto_3_se_senao.dll
