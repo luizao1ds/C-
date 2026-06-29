@@ -1,0 +1,15 @@
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\bin\Debug\net10.0\projeto_2_se_senao_scanf.exe
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\bin\Debug\net10.0\projeto_2_se_senao_scanf.deps.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\bin\Debug\net10.0\projeto_2_se_senao_scanf.runtimeconfig.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\bin\Debug\net10.0\projeto_2_se_senao_scanf.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\bin\Debug\net10.0\projeto_2_se_senao_scanf.pdb
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.AssemblyInfoInputs.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.AssemblyInfo.cs
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.sourcelink.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\refint\projeto_2_se_senao_scanf.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.pdb
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\projeto_2_se_senao_scanf.genruntimeconfig.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_2_se_senao_scanf\obj\Debug\net10.0\ref\projeto_2_se_senao_scanf.dll
