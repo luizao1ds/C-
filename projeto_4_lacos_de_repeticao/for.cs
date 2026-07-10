@@ -30,7 +30,7 @@ namespace projeto_4_lacos_de_repeticao
                 Thread.Sleep(5000);
                 Console.Clear();
             }
-            else if (comando == "Calculadora")
+            else if (comando == "Calculadora" || comando == "calculadora")
             {
                 calculadora();
             }     
@@ -118,7 +118,7 @@ namespace projeto_4_lacos_de_repeticao
                      }
                       break;
                   default:
-                     Console.WriteLine("Operação inválida.");
+                     Console.WriteLine("Opção inválida.");
                      break;
                }
     }
