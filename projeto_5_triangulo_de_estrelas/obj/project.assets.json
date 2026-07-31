@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_3_se_senao\\projeto_3_se_senao.csproj",
-      "projectName": "projeto_3_se_senao",
-      "projectPath": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_3_se_senao\\projeto_3_se_senao.csproj",
+      "projectUniqueName": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_5_triangulo_de_estrelas\\projeto_5_triangulo_de_estrelas.csproj",
+      "projectName": "projeto_5_triangulo_de_estrelas",
+      "projectPath": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_5_triangulo_de_estrelas\\projeto_5_triangulo_de_estrelas.csproj",
       "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_3_se_senao\\obj\\",
+      "outputPath": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_5_triangulo_de_estrelas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

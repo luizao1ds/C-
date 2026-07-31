@@ -1,0 +1,15 @@
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\bin\Debug\net10.0\projeto_5_triangulo_de_estrelas.exe
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\bin\Debug\net10.0\projeto_5_triangulo_de_estrelas.deps.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\bin\Debug\net10.0\projeto_5_triangulo_de_estrelas.runtimeconfig.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\bin\Debug\net10.0\projeto_5_triangulo_de_estrelas.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\bin\Debug\net10.0\projeto_5_triangulo_de_estrelas.pdb
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.AssemblyInfoInputs.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.AssemblyInfo.cs
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.csproj.CoreCompileInputs.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.sourcelink.json
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\refint\projeto_5_triangulo_de_estrelas.dll
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.pdb
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\projeto_5_triangulo_de_estrelas.genruntimeconfig.cache
+C:\Users\55119\OneDrive\Desktop\rep. C#\C#\projeto_5_triangulo_de_estrelas\obj\Debug\net10.0\ref\projeto_5_triangulo_de_estrelas.dll

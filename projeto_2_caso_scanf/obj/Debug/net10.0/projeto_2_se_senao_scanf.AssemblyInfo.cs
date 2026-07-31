@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeto_2_se_senao_scanf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e06efbb9f56de21de39dc691edb599252d87809")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed2f02387ea7115cff27b48a7f586b4267e696d")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeto_2_se_senao_scanf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeto_2_se_senao_scanf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

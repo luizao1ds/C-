@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj": {}
+    "c:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj": {
+    "c:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj",
+        "projectUniqueName": "c:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj",
         "projectName": "projeto_4_lacos_de_repeticao",
-        "projectPath": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj",
+        "projectPath": "c:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\projeto_4_lacos_de_repeticao.csproj",
         "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\obj\\",
+        "outputPath": "c:\\Users\\55119\\OneDrive\\Desktop\\rep. C#\\C#\\projeto_4_lacos_de_repeticao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
